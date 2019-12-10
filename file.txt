@@ -1,2 +1,4 @@
 "My first line in project" 
 "Paris is the capital of France" 
+"Line to show in chanages to be committed" 
+"Line to show in changes not staged to be committed" 
